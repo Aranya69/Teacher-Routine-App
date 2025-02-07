@@ -1,5 +1,5 @@
 # DIU Routine Mobile
-
+(Please install app-release.apk, not published at playstore yet!)
 DIU Routine Mobile is a mobile application designed to help teachers and students at DIU manage their schedules efficiently. The app provides real-time updates on class schedules, current and next classes, and other relevant information.
 
 ## Features
@@ -9,7 +9,8 @@ DIU Routine Mobile is a mobile application designed to help teachers and student
 - **Teacher Initial Entry**: Enter and save your teacher initials for personalized schedule information.
 - **Counseling Hours**: Access information about counseling hours (coming soon).
 - **Lottie Animations**: Enjoy smooth and engaging animations for loading and coming soon pages.
-
+- 
+(Please install app-release.apk, not published at playstore yet!)
 ## Technologies Used
 
 - **Languages**: Dart, Java, Kotlin, C++, XML
