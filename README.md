@@ -13,8 +13,8 @@ DIU Routine Mobile is a mobile application designed to help teachers and student
 ## Technologies Used
 
 - **Languages**: Dart, Java, Kotlin, C++, XML
-- **Frameworks**: Flutter, GetX
-- **Tools**: Android Studio, Gradle, GetStorage, Lottie, Intl
+- **Frameworks**: Flutter
+- **Tools**: Android Studio, Gradle
 
 ## Installation
 
